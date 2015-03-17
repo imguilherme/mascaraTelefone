@@ -1,5 +1,5 @@
 # mascaraTelefone
-Mascara de telefone jQuery baseado nos 9 dígitos do telefone celular
+Mascara de telefone jQuery compatível com o nono dígito para telefones celulares
 
 **Exemplo**
 
