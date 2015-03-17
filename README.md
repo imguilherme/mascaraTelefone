@@ -1,14 +1,15 @@
 # mascaraTelefone
 Mascara de telefone jQuery baseado nos 9 dígitos do telefone celular
 
-Modo de uso
+**Exemplo**
 
-HTML
+**HTML**
 
-<input type="phone" />
+    <input type="phone" />
 
-JS
+**JS**
 
-jQuery(document).ready(function(){
-   jQuery('input[type="phone"]').telefone();
-});
+    jQuery(document).ready(function(){
+       jQuery('input[type="phone"]').telefone();
+    });
+
